@@ -1,0 +1,2 @@
+# arraysTasks
+some tasks solved
